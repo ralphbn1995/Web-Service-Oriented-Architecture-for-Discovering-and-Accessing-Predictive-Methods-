@@ -20,15 +20,16 @@ This repository contains the code for a Java-based server. To run the server, yo
 
 6. In the Properties window, select "Java Build Path" from the left-hand pane.
 
-7. Click the "Add External JARs" button and navigate to the location where the reference libraries are stored.
+7. Download the reference libraries from https://drive.google.com/file/d/1pP9PKVhOMd6jIWTtmg1a9lGIBdaFxc3M/view?usp=share_link
 
-8. Select all the required reference libraries and click "Open" to add them to the project.
+8. Click the "Add External JARs" button and navigate to the location where the reference libraries are stored.
 
-9. Click "Apply and Close" to save the changes and close the Properties window.
+9. Select all the required reference libraries and click "Open" to add them to the project.
 
-## Running the Server
-To run the server, follow these steps:
+10. Click "Apply and Close" to save the changes and close the Properties window.
 
-The server will start running and you will see output in the Eclipse Java console.
+11. Run the tromcat server on the methods project.
 
-You can now interact with the server using the provided API.
+12. The server will start running and you will see output in the Eclipse Java console.
+
+13. You can now interact with the server using the provided API.
