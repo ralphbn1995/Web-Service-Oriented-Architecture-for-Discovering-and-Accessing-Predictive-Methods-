@@ -29,10 +29,6 @@ This repository contains the code for a Java-based server. To run the server, yo
 ## Running the Server
 To run the server, follow these steps:
 
-1. Once the project is loaded, select the "Run" menu and click "Run As".
+The server will start running and you will see output in the Eclipse Java console.
 
-2. Select "Java Application" from the options and click "OK".
-
-3. The server will start running and you will see output in the Eclipse Java console.
-
-4. You can now interact with the server using the provided API.
+You can now interact with the server using the provided API.
